@@ -1,4 +1,3 @@
-[sursaludapp-README.md](https://github.com/user-attachments/files/29909765/sursaludapp-README.md)
 # Sur Salud
 
 Sistema de gestión de citas médicas para clínicas, con arquitectura Spring Boot y documentación completa vía Swagger.
